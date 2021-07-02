@@ -1,7 +1,12 @@
 {
-    "id": "104",
-    "name": "Sweet Card 4",
-    "description": "Sweet Card 4 Description",
-    "image": "https://price-tracker-assets.s3.amazonaws.com/app/public/images/cards/xy/evolutions/charizard.png",
-    "total": "50"
+    "name": "FOMO Juice",
+    "description": "Don't miss out",
+    "image": "",
+    "properties": {
+        "total": "",
+        "type": "",
+        "seriesId": "",
+        "subsetId": "",
+        "subsetGroup": ""
+    }
 }

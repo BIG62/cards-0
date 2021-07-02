@@ -1,7 +1,12 @@
 {
-    "id": "0",
     "name": "Series 0 Card Pack",
     "description": "Series 0 Card Pack Description",
     "image": "https://cdn.toucharcade.com/wp-content/uploads/2017/04/grand-tournament-pack-art.png",
-    "total": "100"
+    "properties": {
+        "total": "100",
+        "type": "pack",
+        "seriesId": "100",
+        "subsetId": "",
+        "subsetGroup": ""
+    }
 }

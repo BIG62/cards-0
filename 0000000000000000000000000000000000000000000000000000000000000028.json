@@ -1,0 +1,12 @@
+{
+    "name": "Meme Card 4",
+    "description": "Meme Card 4 Description",
+    "image": "https://price-tracker-assets.s3.amazonaws.com/app/public/images/cards/xy/evolutions/charizard.png",
+    "properties": {
+        "total": "5",
+        "type": "card",
+        "seriesId": "100",
+        "subsetId": "103",
+        "subsetGroup": "1"
+    }
+}

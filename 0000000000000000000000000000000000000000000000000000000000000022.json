@@ -1,0 +1,12 @@
+{
+    "name": "Rare Card 19",
+    "description": "Rare Card 19 Description",
+    "image": "https://price-tracker-assets.s3.amazonaws.com/app/public/images/cards/xy/evolutions/charizard.png",
+    "properties": {
+        "total": "10",
+        "type": "card",
+        "seriesId": "100",
+        "subsetId": "102",
+        "subsetGroup": "4"
+    }
+}

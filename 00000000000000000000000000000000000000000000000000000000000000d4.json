@@ -1,1 +1,7 @@
-{"id":"212","name":"Rare Card 12","description":"Rare Card 12 Description","image":"https://price-tracker-assets.s3.amazonaws.com/app/public/images/cards/xy/evolutions/charizard.png","total":"10"}
+{
+    "id": "212",
+    "name": "Rare Card 12",
+    "description": "Rare Card 12 Description",
+    "image": "https://price-tracker-assets.s3.amazonaws.com/app/public/images/cards/xy/evolutions/charizard.png",
+    "total": "10"
+}

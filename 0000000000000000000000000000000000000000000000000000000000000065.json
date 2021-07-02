@@ -1,1 +1,7 @@
-{"id":"101","name":"Sweet Card 1","description":"Sweet Card 1 Description","image":"https://price-tracker-assets.s3.amazonaws.com/app/public/images/cards/xy/evolutions/charizard.png","total":"50"}
+{
+    "id": "101",
+    "name": "Sweet Card 1",
+    "description": "Sweet Card 1 Description",
+    "image": "https://price-tracker-assets.s3.amazonaws.com/app/public/images/cards/xy/evolutions/charizard.png",
+    "total": "50"
+}
